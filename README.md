@@ -32,8 +32,9 @@ This is the game of snakes where you are the main protagonist as a snake, and yo
 
 <h2 align="center">Components</h2>
 <hr>
+
 - Login Page
-![image](https://github.com/user-attachments/assets/b42239f2-c576-4af4-9107-2263ab016e3f)
+![image](https://github.com/user-attachments/assets/7593ad18-283c-438c-b373-ba8060583109)
 
 - Start Page
 ![image](https://github.com/user-attachments/assets/b9b67f10-cced-4668-a7d6-763299e2099c)
