@@ -68,7 +68,7 @@ def run_game(username):
     #create button instances
     start_button = button.Button(350, 350, start_img, 0.8)
     # Game Title
-    pygame.display.set_caption("yash games")
+    pygame.display.set_caption("Snake Game")
     icon = pygame.image.load('img/icon.png')
     pygame.display.set_icon(icon)
     pygame.display.update()
