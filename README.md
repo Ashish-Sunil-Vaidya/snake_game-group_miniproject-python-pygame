@@ -29,4 +29,4 @@ This is the game of snakes where you are the main protagonist as a snake, and yo
          What is new in this version?
         - For developers
             - Shifted all database queries to a single file 📄
-            - Used SHA256 hashing algorithm for encrypting passwords 🔑
+         
