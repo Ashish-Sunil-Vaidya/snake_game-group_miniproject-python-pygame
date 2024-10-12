@@ -27,10 +27,6 @@ This is the game of snakes where you are the main protagonist as a snake, and yo
 - (2) on the numpad: Increase the velocity of the snake.
 
          What is new in this version?
-
-        - For users 
-            - Added encryption to password 🔐.
-
         - For developers
             - Shifted all database queries to a single file 📄
             - Used SHA256 hashing algorithm for encrypting passwords 🔑
