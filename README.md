@@ -40,7 +40,7 @@ This is the game of snakes where you are the main protagonist as a snake, and yo
 ![image](https://github.com/user-attachments/assets/b9b67f10-cced-4668-a7d6-763299e2099c)
 
 - Game Page
-![image](https://github.com/user-attachments/assets/2747e8fa-4643-46c5-b1f9-884e79075365)
+![image](https://github.com/user-attachments/assets/69ce5054-1741-48eb-a650-b3bebd6ac427)
 
 - Over Page
 ![image](https://github.com/user-attachments/assets/a4152e1f-aa0f-43d4-9583-c2fe93349cb1)
